@@ -23,14 +23,21 @@ Components에 command + . 간편하게 생성가능
 ```bash
 flutter run -d chrome
 ```
+## flutter 관련 기본 정보
 
-### extension
+- flutter package repository offical
+https://pub.dev/
 
-awesome flutter snippets
+ 
+## extension
+
+### awesome flutter snippets
 
 statelessW => 스테이스레스 위젯 생성
 
-
+### Pubspec Assist
+pubspec으로 패키지 관리를 하는데, command line에서 쉽게 설치를 도와줌
+pubspec.yaml 파일에 자동적으로 추가 됨.
 --- 
 
 LayoutBuiler-> 반응형 레이아웃을 만드는 데에 도움을 줌
